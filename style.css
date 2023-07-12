@@ -3,3 +3,7 @@ p {
     justify-content: center;
     color: green;
 }
+
+body {
+    background-color: burlywood;
+}
